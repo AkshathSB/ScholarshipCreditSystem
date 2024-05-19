@@ -27,7 +27,6 @@ To set up and run this project locally, follow these steps:
 
    ```bash
    git clone <repository-url>
-
    ```
 
 2. Install dependencies:
@@ -38,13 +37,14 @@ To set up and run this project locally, follow these steps:
 
 3. Deploy the smart contract:
 
-```npx hardhat run scripts/deploy.js
-
+```
+npx hardhat run scripts/deploy.js
 ```
 
 4. Start the front-end server:
 
-```npm run dev
+```
+npm run dev
 ```
 
 5. Ensure you have MetaMask installed in your browser to interact with the Ethereum network
