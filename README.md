@@ -24,25 +24,22 @@ The Scholarship Credit System utilizes smart contracts to allocate, manage, and 
 To set up and run this project locally, follow these steps:
 
 1. Clone the repository:
-
    ```bash
    git clone <repository-url>
    ```
 
 2. Install dependencies:
-
-```cd <project-directory>
-   npm install
+```
+cd <project-directory>
+npm install
 ```
 
 3. Deploy the smart contract:
-
 ```
 npx hardhat run scripts/deploy.js
 ```
 
 4. Start the front-end server:
-
 ```
 npm run dev
 ```
