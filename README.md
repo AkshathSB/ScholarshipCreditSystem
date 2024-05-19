@@ -45,7 +45,6 @@ To set up and run this project locally, follow these steps:
 4. Start the front-end server:
 
 ```npm run dev
-
 ```
 
 5. Ensure you have MetaMask installed in your browser to interact with the Ethereum network
